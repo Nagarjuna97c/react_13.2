@@ -1,0 +1,23 @@
+.app-container {
+  background-color: #ffffff;
+  width: 175px;
+  height: 175px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 10px;
+}
+
+.image {
+  height: 100px;
+  width: 100px;
+}
+
+.para1 {
+  font-family: 'Bree Serif';
+  font-size: 25px;
+  color: #1e293b;
+  margin-top: 2px;
+  margin-bottom: 2px;
+}
